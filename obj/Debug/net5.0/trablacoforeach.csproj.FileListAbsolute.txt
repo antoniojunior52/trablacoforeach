@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\bin\Debug\net5.0\trablacoforeach.exe
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\bin\Debug\net5.0\trablacoforeach.deps.json
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\bin\Debug\net5.0\trablacoforeach.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\bin\Debug\net5.0\trablacoforeach.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\bin\Debug\net5.0\trablacoforeach.dll
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\bin\Debug\net5.0\ref\trablacoforeach.dll
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\bin\Debug\net5.0\trablacoforeach.pdb
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.dll
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\ref\trablacoforeach.dll
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.pdb
+C:\projetos\ams\1ano\semestre2\trab\trablacoforeach\obj\Debug\net5.0\trablacoforeach.genruntimeconfig.cache
